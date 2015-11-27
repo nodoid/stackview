@@ -1,0 +1,10 @@
+Droid/bin/*
+Droid/obj/*
+iOS/bin/*
+iOS/obj/*
+stackviews/obj/*
+stackviews/bin/*
+*userprefs
+packages/*
+
+
